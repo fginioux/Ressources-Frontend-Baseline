@@ -13,5 +13,11 @@ https://www.exratione.com/2013/12/considering-speed-and-slowness-in-angularjs/
 Batarang : https://www.youtube.com/watch?v=q-7mhcHXSfM
 https://github.com/Pasvaz/bindonce
 
+### Javascript
+https://github.com/arasatasaygin/is.js - Programmation tools
+
+### Canvas
+http://ocanvas.org/ - Canvas
+
 ## CSS
 http://blog.pexels.com/top-5-killer-css-talks-of-2014/
